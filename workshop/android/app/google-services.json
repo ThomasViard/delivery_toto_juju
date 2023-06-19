@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "689901422797",
+    "project_id": "workshop-df496",
+    "storage_bucket": "workshop-df496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689901422797:android:aba600f410b35b0eb0c184",
+        "android_client_info": {
+          "package_name": "com.example.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689901422797-6id6ege04okh0n1a5e819rr0gbf2330v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC6-tSU_e26ZoiEFI8KAJmqcf49S8Toik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689901422797-6id6ege04okh0n1a5e819rr0gbf2330v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689901422797:android:87a066def7cb33dab0c184",
+        "android_client_info": {
+          "package_name": "com.thomas.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689901422797-6id6ege04okh0n1a5e819rr0gbf2330v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC6-tSU_e26ZoiEFI8KAJmqcf49S8Toik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689901422797-6id6ege04okh0n1a5e819rr0gbf2330v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
